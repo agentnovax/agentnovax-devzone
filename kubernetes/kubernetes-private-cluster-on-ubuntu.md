@@ -31,7 +31,7 @@ Ensure the following requirements are met before proceeding:
 
 ---
 
-![Kubernetes Cluster Architecture](https://github.com/agentnovax/agentnovax-devzone/raw/main/kubernetes/assets/architecture_diagram.png)
+![Kubernetes Cluster Architecture](https://github.com/agentnovax/agentnovax-devzone/raw/main/kubernetes/assets/AgentNovaX-Kubernetes.png)
 
 ---
 
