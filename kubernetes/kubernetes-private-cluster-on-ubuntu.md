@@ -31,6 +31,10 @@ Ensure the following requirements are met before proceeding:
 
 ---
 
+![Kubernetes Cluster Architecture](https://github.com/agentnovax/agentnovax-devzone/raw/main/kubernetes/assets/architecture_diagram.png)
+
+---
+
 ## Lab Setup
 The cluster will consist of one control-plane node and two worker nodes:
 
