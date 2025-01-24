@@ -14,6 +14,18 @@ This repository serves as a platform for developers to contribute, learn, and en
 
 ---
 
+## Kubernetes Guides
+
+| **Topic**                                                                                                        | **Description**                                                                                   |
+|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/agentnovax/agentnovax-devzone/tree/main/kubernetes/kubernetes-private-cluster-on-ubuntu" target="_blank" className="font-medium underline underline-offset-4">Private Kubernetes Cluster Setup on Ubuntu 20.04</a> | Step-by-step guide for setting up a private Kubernetes cluster on Ubuntu 20.04.                     |
+| <a href="#" target="_blank" className="font-medium underline underline-offset-4">Setting Up Helm on Kubernetes</a> | Guide on how to install and configure Helm for managing Kubernetes applications.                  |
+| <a href="#" target="_blank" className="font-medium underline underline-offset-4">CI/CD Pipelines with Kubernetes</a> | Learn how to set up continuous integration and continuous delivery pipelines with Kubernetes.      |
+| <a href="#" target="_blank" className="font-medium underline underline-offset-4">How to Deploy Microservices on Kubernetes</a> | An in-depth guide on deploying microservices on a Kubernetes cluster.                              |
+
+---
+
+
 ## 🚀 How to Contribute
 We welcome contributions! Here's how you can get involved:
 
