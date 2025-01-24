@@ -1,8 +1,8 @@
 <!-- Header Section (Logo and Title) -->
 <p align="center">
-  <img src="https://www.agentnovax.com/logo.png" alt="AgentNovaX" width="150"/>
+  <h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 3em; color: #2C3E50;">AgentNovaX</h1>
 </p>
-<h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 3em; color: #2C3E50;">AgentNovaX: Development Resources Repository</h1>
+<h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 3em; color: #2C3E50;">Development Resources Repository</h1>
 
 ---
 
