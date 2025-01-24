@@ -1,19 +1,4 @@
-<!-- Header Section (Logo and Title) -->
-<p align="center">
-  <h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 3em; color: #2C3E50;">AgentNovaX</h1>
-</p>
-<h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 3em; color: #2C3E50;">Development Resources Repository</h1>
-
----
-
-<!-- Navigation Menu (ShadCN/UI style) -->
-<div align="center">
-  <a href="#about-this-repository" style="margin: 5px; padding: 10px; background-color: #3B82F6; color: white; border-radius: 8px; font-family: 'Inter', sans-serif; text-decoration: none;">About</a>
-  <a href="#whats-inside" style="margin: 5px; padding: 10px; background-color: #3B82F6; color: white; border-radius: 8px; font-family: 'Inter', sans-serif; text-decoration: none;">What's Inside</a>
-  <a href="#how-to-contribute" style="margin: 5px; padding: 10px; background-color: #3B82F6; color: white; border-radius: 8px; font-family: 'Inter', sans-serif; text-decoration: none;">How to Contribute</a>
-  <a href="#explore-the-resources" style="margin: 5px; padding: 10px; background-color: #3B82F6; color: white; border-radius: 8px; font-family: 'Inter', sans-serif; text-decoration: none;">Explore Resources</a>
-  <a href="#stay-connected" style="margin: 5px; padding: 10px; background-color: #3B82F6; color: white; border-radius: 8px; font-family: 'Inter', sans-serif; text-decoration: none;">Stay Connected</a>
-</div>
+# AgentNovaX Development Resources Repository
 
 ---
 
@@ -23,20 +8,9 @@ This repository serves as a platform for developers to contribute, learn, and en
 ---
 
 ## 🚀 What’s Inside
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-  <div style="background-color: #F9FAFB; padding: 20px; border-radius: 10px; width: 280px; margin: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-    <h3 style="font-family: 'Inter', sans-serif; color: #2C3E50;">Code Snippets</h3>
-    <p>Pre-written code samples for various programming languages and frameworks.</p>
-  </div>
-  <div style="background-color: #F9FAFB; padding: 20px; border-radius: 10px; width: 280px; margin: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-    <h3 style="font-family: 'Inter', sans-serif; color: #2C3E50;">Architecture Diagrams</h3>
-    <p>Visual representations of system architectures and workflows.</p>
-  </div>
-  <div style="background-color: #F9FAFB; padding: 20px; border-radius: 10px; width: 280px; margin: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-    <h3 style="font-family: 'Inter', sans-serif; color: #2C3E50;">Sample Projects</h3>
-    <p>Ready-to-use project templates and real-world use cases.</p>
-  </div>
-</div>
+- **Code Snippets**: Pre-written code samples for various programming languages and frameworks.
+- **Architecture Diagrams**: Visual representations of system architectures and workflows.
+- **Sample Projects**: Ready-to-use project templates and real-world use cases.
 
 ---
 
@@ -108,8 +82,6 @@ Powered by **AgentNovaX**. Explore our community at [https://www.agentnovax.com]
 
 ---
 
-<!-- Footer Section -->
-<p align="center" style="font-family: 'Inter', sans-serif; color: #6B7280; font-size: 0.9em;">
-  Powered by <strong>AgentNovaX</strong><br />
-  Explore our platform at <a href="https://www.agentnovax.com" style="color: #3B82F6;">AgentNovaX</a>
-</p>
+## Footer Section
+Powered by **AgentNovaX**  
+Explore our platform at [AgentNovaX](https://www.agentnovax.com)
