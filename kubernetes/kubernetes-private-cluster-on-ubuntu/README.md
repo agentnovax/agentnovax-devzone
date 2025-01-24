@@ -275,3 +275,56 @@ Access the application using the node IP and NodePort.
 
 ## Conclusion
 Congratulations! You’ve successfully set up a Kubernetes cluster on Ubuntu 20.04. Your cluster is now ready to deploy and manage containerized applications. Explore further Kubernetes features to unleash its full potential.
+
+---
+
+## Contact 📧
+
+For any queries, feel free to reach out via  
+![wecare@agentnovax.com](https://raw.githubusercontent.com/agentnovax/www.agentnovax.com/main/assets/icons/agentnovax-email.png)
+
+---
+
+- ## 📬 Stay Connected
+
+- Website: [AgentNovaX Platform](https://agentnovax.com)  
+- Social Media:
+  - [YouTube](https://www.youtube.com/@agentnovaxp)
+  - [Instagram](https://www.instagram.com/agentnovax/)
+  - [X (formerly Twitter)](https://x.com/agentnovax)
+  - [Facebook](https://www.facebook.com/profile.php?id=61571252049491)
+  - [GitHub](https://github.com/agentnovax/)
+  - [LinkedIn](https://www.linkedin.com/company/agentnovax/)
+  - [Discord](https://discord.gg/GDPE6YSJ)
+
+---
+
+## NovaLeaf Concept 🌱
+
+**NovaLeaf** is an initiative focused on environmental sustainability, aiming to contribute to a greener planet. Through this initiative, **AgentNovaX** is committed to planting trees, fostering green projects, and encouraging eco-friendly practices among individuals and communities.
+
+- **Plant a Tree, Empower a Community**: For every milestone achieved in our platform, a tree will be planted in a designated area.
+- **Green Nova Trees**: These trees represent our growth and commitment to sustainability, and each one is named for the cause it supports.
+- **Join the Movement**: Become part of the **NovaLeaf** family and help us plant the future, one tree at a time. 🌳
+
+🌟 **Please consider starring this repository to support the NovaLeaf initiative** 🌟
+
+For more information, visit [NovaLeaf](https://novaleaf.agentnovax.com).
+
+---
+
+## DataFlux 🔄
+
+**DataFlux** provides free tools for data conversion, JSON/YAML beautification, and validation to help developers and data enthusiasts streamline their workflow.
+
+- Tools available: JSON/YAML Beautifiers and Validators, JSON/YAML conversion, Text Compare, JavaScript Validators, and more.
+- Visit [DataFlux](https://dataflux.agentnovax.com) to explore our tools and enhance your productivity.
+
+---
+
+## Disclaimer
+
+The **AgentNovaX Development Resources Repository** is provided "as-is," without warranty of any kind, express or implied. AgentNovaX does not guarantee the accuracy or completeness of the content in this repository. By accessing and using these resources, you agree that AgentNovaX is not liable for any loss, damage, or legal issues arising from the use of these resources. Users are encouraged to review and validate the content independently before applying it to their own projects.
+
+---
+
