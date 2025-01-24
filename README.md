@@ -81,7 +81,3 @@ If you use this project or its derivatives, include the following attribution:
 Powered by **AgentNovaX**. Explore our community at [https://www.agentnovax.com](https://www.agentnovax.com).
 
 ---
-
-## Footer Section
-Powered by **AgentNovaX**  
-Explore our platform at [AgentNovaX](https://www.agentnovax.com)
