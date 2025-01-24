@@ -1,6 +1,8 @@
-# Kubernetes Cluster Setup on Ubuntu 20.04
+# Private Kubernetes Cluster Setup on Ubuntu 20.04
 
-This README provides a step-by-step guide to install and configure a Kubernetes cluster on Ubuntu 20.04. By the end, you'll have a functional Kubernetes environment capable of running and managing containerized applications.
+This README provides a step-by-step guide to install and configure a Kubernetes cluster on Ubuntu 20.04. By the end, you'll have a functional Kubernetes environment capable of running and managing containerized applications. 
+
+This setup is for a private Kubernetes cluster, which can be deployed on-premises or on any cloud platform as a self-hosted cluster. can you change the title accordingly
 
 ---
 
