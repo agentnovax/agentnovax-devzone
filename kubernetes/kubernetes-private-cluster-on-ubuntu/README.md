@@ -278,13 +278,6 @@ Congratulations! You’ve successfully set up a Kubernetes cluster on Ubuntu 20.
 
 ---
 
-## Contact 📧
-
-For any queries, feel free to reach out via  
-![wecare@agentnovax.com](https://raw.githubusercontent.com/agentnovax/www.agentnovax.com/main/assets/icons/agentnovax-email.png)
-
----
-
 - ## 📬 Stay Connected
 
 - Website: [AgentNovaX Platform](https://agentnovax.com)  
